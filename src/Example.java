@@ -2,7 +2,8 @@
 public class Example {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// This prints out hello world.
+		System.out.println("Hello world!");
 
 	}
 
